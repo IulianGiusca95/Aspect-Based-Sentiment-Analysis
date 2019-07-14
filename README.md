@@ -1,6 +1,6 @@
 # Aspect-Based-Sentiment-Analysis
 
-I have implemented a system that solves the SemEval2016 task 5. In creating this project, i followed the implementation of Github group of users _nlpaueb_. 
+I have implemented a system that solves the SemEval2016 task 5. In creating this project, i followed the implementation of Github group of users _nlpaueb_, and expanded on.
 
 ABSA has been split in 3 subtasks:
 - Aspect category Detection, solved with Support Vector Machine classifiers and Convolutional Neural Networks;
