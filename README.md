@@ -7,7 +7,7 @@ ABSA has been split in 3 subtasks:
 - Opinion Term Extraction, solved with Conditional Random Fields;
 - Polarity Detection, solved with the Multilinear Regression Classifier and text pre-processing.
 
-The code has been documented in the _Disertatie_fin.pdf_, available in Romanian.
+The code has been documented in the Dissertation paper, available in Romanian, upon request.
 
 # Data required for download
 
